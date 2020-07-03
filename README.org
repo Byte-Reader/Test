@@ -1,3 +1,7 @@
+** 对上一次添加新文件的说明
+   - c.txt
+   - 是一个文本文件
+   - 仅仅用来测试
 ** Repository Test
    - test1
    - test2
@@ -6,3 +10,15 @@
    - good1
    - good2
    - good3
+** Git Clone and MOdified
+   - clone
+   - clone
+   - clone
+** The second developer
+   - code
+   - code
+   - code
+** The third modified
+   - smoke
+   - chine
+   - water
